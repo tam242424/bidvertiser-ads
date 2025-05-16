@@ -1,0 +1,19 @@
+# Node modules (if using npm at some point)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build output (if ever added)
+dist/
+build/
